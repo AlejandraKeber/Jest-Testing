@@ -1,0 +1,25 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "This is an exercise about write a few practical tests for JavaScript functions using the Jest library",
+  "main": "stringlength.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandraKeber/Jest-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandraKeber/Jest-Testing/issues"
+  },
+  "homepage": "https://github.com/AlejandraKeber/Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
